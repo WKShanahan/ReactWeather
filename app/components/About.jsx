@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h1 className="text-center">Information About the React Weather App</h1>
+      <h1 className="text-center page-title">Information About the React Weather App</h1>
       <p>This is a Weather Application built with the React platform.  It will return the current
       temperature in Fahrenheit for any city entered.</p>
       <p>
